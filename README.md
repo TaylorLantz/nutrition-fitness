@@ -10,7 +10,7 @@ It is important to track macronutrients and nutrients. Macros include the follow
   *Protein
   *Fat
   *Calories
-  Apps such as MyFitnessPal can help track this
+  Apps such as _MyFitnessPal_ can help track this
 # Running the program-Weightlifting
 It is important to follow a weekly and consistent weightlightlifting schedule. many people do a push. leg(glutes and hamstrings), pull, leg(quads), and cardio day. Abs are also important to mix in along with cardio.
 # Links
